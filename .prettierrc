@@ -1,0 +1,15 @@
+{
+	"tabWidth": 4,
+	"printWidth": 95,
+	"useTabs": true,
+	"semi": true,
+	"singleQuote": true,
+	"jsxSingleQuote": true,
+	"trailingComma": "all",
+	"bracketSpacing": true,
+	"arrowParens": "always",
+	"plugins": ["@trivago/prettier-plugin-sort-imports"],
+	"importOrder": ["<THIRD_PARTY_MODULES>", "@/(features|shared|app)/", "^[./]"],
+	"importOrderSortSpecifiers": true,
+	"importOrderSeparation": true
+}

@@ -1,0 +1,19 @@
+.input {
+	width: 300px;
+}
+
+.tag {
+	width: 100px;
+	margin-left: -20px;
+
+	&:first-child {
+		margin-left: 0;
+	}
+}
+
+.views {
+	width: 150px;
+	div > ul > li {
+		width: 100% !important;
+	}
+}
