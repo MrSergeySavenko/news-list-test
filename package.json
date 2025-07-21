@@ -1,7 +1,9 @@
 {
 	"name": "news-list-test",
 	"version": "0.1.0",
+	"author": "Sergey Savenko <sergeyc.savenko@gmail.com>",
 	"private": true,
+	"license": "UNLICENSED",
 	"scripts": {
 		"dev": "next dev",
 		"build": "next build",
